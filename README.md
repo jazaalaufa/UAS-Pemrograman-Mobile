@@ -1,7 +1,7 @@
 # UAS-Pemrograman-Mobile
 Teknik Informatika 2018 A
 
-Kelomppk 7 :
+Kelompok 7 :
 
 Muhammad Jazaal Aufa (18051204013)
 
